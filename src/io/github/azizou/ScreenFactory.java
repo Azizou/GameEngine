@@ -1,6 +1,8 @@
 package io.github.azizou;
 
 public class ScreenFactory {
+	
+	@SuppressWarnings("unused")
 	private final Game game;
 	private Screen screen;
 	
