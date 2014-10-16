@@ -5,5 +5,5 @@ Currently, you can create a screen object, a factory object, a game object, the 
 
 #Still need work though#
 
-###Most importantly, I gotta make it work.### 
+###Most importantly, I gotta make it work. ### 
 The damn game won't work, and I am not sure where the bug is. By it's nature, I will guess it is thread related. Cuz, All traces I have tried failed
